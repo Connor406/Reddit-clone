@@ -12,6 +12,7 @@
     "@chakra-ui/react": "^1.0.0",
     "@emotion/react": "^11.0.0",
     "@emotion/styled": "^11.0.0",
+    "@mikro-orm/core": "^4.4.1",
     "@urql/exchange-graphcache": "^3.4.0",
     "formik": "^2.2.6",
     "framer-motion": "^2.9.4",
@@ -21,6 +22,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-is": "^17.0.1",
+    "typeorm": "^0.2.30",
     "urql": "^1.11.6",
     "wonka": "^4.0.15"
   },
